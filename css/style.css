@@ -1444,13 +1444,13 @@ figure.testimonial .author h5 span {
 	-moz-osx-font-smoothing: grayscale;
 }
 .slick-prev {
-	left: -0px;
+  left: -10px;
 }
 .slick-prev:before {
 	content: "\f053";
 }
 .slick-next {
-	right: -0px;
+	right: -10px;
 }
 .slick-next:before {
 	content: "\f054";
